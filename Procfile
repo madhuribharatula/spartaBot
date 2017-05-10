@@ -1,0 +1,1 @@
+worker: python greenBot.py

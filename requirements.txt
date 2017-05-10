@@ -1,0 +1,7 @@
+python
+flask
+pymongo
+slackclient
+wit
+BeautifulSoup
+werkzeug.utils
